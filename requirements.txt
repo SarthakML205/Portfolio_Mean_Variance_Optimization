@@ -1,0 +1,19 @@
+# ============================================================
+# Portfolio Analytics Suite
+# ============================================================
+# Install with:
+#   pip install -r requirements.txt
+
+# --- Data acquisition & storage ---
+yfinance>=1.2.0          # Yahoo Finance historical price downloader
+pandas>=2.3.0            # DataFrame core; required for all modules
+numpy>=2.4.0             # Vectorised maths (returns, covariance, Monte Carlo)
+pyarrow>=23.0.0          # Parquet read/write (schema-preserving storage)
+
+# --- Portfolio optimisation ---
+cvxpy>=1.8.0             # Convex QP solver (Min-Var, Max-Sharpe, Frontier)
+scikit-learn>=1.8.0      # LedoitWolf covariance shrinkage
+
+# --- Dashboard ---
+streamlit>=1.55.0        # Interactive web dashboard
+plotly>=6.6.0            # Interactive charts (scatter, bar, line, heatmap)
