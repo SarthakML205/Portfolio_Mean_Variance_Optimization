@@ -6,13 +6,9 @@
 
 ## Demo
 
-![Dashboard Demo](demo/demo.gif)
-
-> **To record your own demo:**
-> 1. Launch the app: `streamlit run app.py`
-> 2. Use a screen-capture tool (e.g. [ScreenToGif](https://www.screentogif.com/) on Windows, or [LICEcap](https://www.cockos.com/licecap/)) to record the browser window.
-> 3. Save the output as `demo/demo.gif` (create the `demo/` folder if it does not exist).
-> 4. The image will automatically render on GitHub once the file is in place.
+<video src="Demo/demo.mp4" controls width="100%">
+  Your browser does not support the video tag. Download the demo <a href="Demo/demo.mp4">here</a>.
+</video>
 
 ---
 
