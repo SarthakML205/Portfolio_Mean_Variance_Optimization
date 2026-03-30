@@ -6,9 +6,9 @@
 
 ## Demo
 
-<video src="Demo/demo.mp4" controls width="100%">
-  Your browser does not support the video tag. Download the demo <a href="Demo/demo.mp4">here</a>.
-</video>
+> GitHub does not auto-play MP4s in README files. Click the badge below to watch the demo video directly in your browser.
+
+[![▶ Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-Portfolio%20Dashboard-blue?style=for-the-badge&logo=github)](Demo/demo.mp4)
 
 ---
 
